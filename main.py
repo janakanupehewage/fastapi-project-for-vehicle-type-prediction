@@ -32,7 +32,7 @@ def preprocess_image(image) -> np.ndarray:
 # GET endpoint to check the API status
 @app.get("/")
 async def root():
-    return {"message": "The Vehicle Type Prediction API is ready to use."}
+    return {"message": "The Vehicle Type Prediction API is ready to use. Upload an image of a bus, car, motorcycle, or truck, and the API will tell you what type of vehicle it is."}
 
 
 
