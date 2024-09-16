@@ -55,6 +55,6 @@ This repository contains a FastAPI application deployed on the Koyeb platform. T
 - The application is live on Koyeb. You can access it using the following URL:
 
     ```bash
-        xenogeneic-aurlie-fastapi-for-vehicle-type-prediction-7b69ecd1.koyeb.app/
+        good-hyacinth-fastapi-project-437ba4c1.koyeb.app/
     ```
 - The same FastAPI features and functionality are available, allowing you to upload images and receive vehicle type predictions.
